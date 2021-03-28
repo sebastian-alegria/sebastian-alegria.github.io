@@ -9,10 +9,28 @@
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://sebastian-alegria.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encargo 01</title>
-      <link>https://sebastian-alegria.github.io/docs/post-1/</link>
+      <link>https://sebastian-alegria.github.io/docs/encargo01/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://sebastian-alegria.github.io/docs/post-1/</guid>
+      <guid>https://sebastian-alegria.github.io/docs/encargo01/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 02</title>
+      <link>https://sebastian-alegria.github.io/docs/encargo02/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/docs/encargo02/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 03</title>
+      <link>https://sebastian-alegria.github.io/docs/encargo03/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/docs/encargo03/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
