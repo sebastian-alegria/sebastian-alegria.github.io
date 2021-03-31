@@ -8,12 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://sebastian-alegria.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Encargo 0</title>
+      <link>https://sebastian-alegria.github.io/docs/encargo00/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/docs/encargo00/</guid>
+      <description>Planos de luz</description>
+    </item>
+    
+    <item>
       <title>Encargo 01</title>
       <link>https://sebastian-alegria.github.io/docs/encargo01/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://sebastian-alegria.github.io/docs/encargo01/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <description>Planos de luz</description>
     </item>
     
     <item>
@@ -22,16 +31,25 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://sebastian-alegria.github.io/docs/encargo02/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <description>Experimentación con luces y sombras</description>
     </item>
     
     <item>
       <title>Encargo 03</title>
+      <link>https://sebastian-alegria.github.io/docs/encargo04/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/docs/encargo04/</guid>
+      <description>Volumenes de luz</description>
+    </item>
+    
+    <item>
+      <title>Encargo 04</title>
       <link>https://sebastian-alegria.github.io/docs/encargo03/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://sebastian-alegria.github.io/docs/encargo03/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <description>Volumenes de luz</description>
     </item>
     
     <item>
