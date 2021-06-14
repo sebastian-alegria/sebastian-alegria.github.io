@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastián Alegría on Sebastián Alegría - MID 2021</title>
+    <link>https://sebastian-alegria.github.io/Taller-Integrado/</link>
+    <description>Recent content in Sebastián Alegría on Sebastián Alegría - MID 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://sebastian-alegria.github.io/Taller-Integrado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encargo 0</title>
+      <link>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo00/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo00/</guid>
+      <description>Planos de luz</description>
+    </item>
+    
+    <item>
+      <title>Encargo 01</title>
+      <link>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo01/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo01/</guid>
+      <description>Planos de luz</description>
+    </item>
+    
+    <item>
+      <title>Encargo 02</title>
+      <link>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo02/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo02/</guid>
+      <description>Experimentación con luces y sombras</description>
+    </item>
+    
+    <item>
+      <title>Encargo 03</title>
+      <link>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo03/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo03/</guid>
+      <description>Volumenes de luz</description>
+    </item>
+    
+    <item>
+      <title>Encargo 04</title>
+      <link>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo04/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/Taller-Integrado/docs/encargo04/</guid>
+      <description>Volumenes de luz</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://sebastian-alegria.github.io/Taller-Integrado/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/Taller-Integrado/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://sebastian-alegria.github.io/Taller-Integrado/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/Taller-Integrado/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+  </channel>
+</rss>
