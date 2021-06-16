@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://sebastian-alegria.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>encargo0</title>
+      <link>https://sebastian-alegria.github.io/taller-ciudad-espacio/docs/encargo0/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://sebastian-alegria.github.io/taller-ciudad-espacio/docs/encargo0/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://sebastian-alegria.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
